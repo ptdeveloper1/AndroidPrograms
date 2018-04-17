@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\NotificationBubble\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0932f6495cb29ec3f9e9f284a687e51ed9efa18d">
+        <dex dex="D:\AndroidStudio\NotificationBubble\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_301903ba961f29f21506213f9f107cc58de521a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADMIN\.android\build-cache\a3b2f0fb1dfd1f0b8f0a4728adbef229079d74fd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b7efa6ff2b55fc9c3a29e42b4e7a0f1f8a846940">
+        <dex dex="D:\AndroidStudio\NotificationBubble\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dd1c31257bda79afcac429bea0cf11d4b53b629b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\NotificationBubble\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\AndroidStudio\NotificationBubble\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_43ad192385031235288b11a81b2dfdd6e3c4ad8a\classes.dex" />
+    </item>
+
+</items>

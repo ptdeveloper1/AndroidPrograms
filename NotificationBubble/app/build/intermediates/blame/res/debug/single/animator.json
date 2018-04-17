@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\AndroidStudio\\NotificationBubble\\app\\build\\intermediates\\res\\merged\\debug\\animator\\bubble_trash_hide_magnetism_animator.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\a3b2f0fb1dfd1f0b8f0a4728adbef229079d74fd\\output\\res\\animator\\bubble_trash_hide_magnetism_animator.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\NotificationBubble\\app\\build\\intermediates\\res\\merged\\debug\\animator\\bubble_shown_animator.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\a3b2f0fb1dfd1f0b8f0a4728adbef229079d74fd\\output\\res\\animator\\bubble_shown_animator.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\NotificationBubble\\app\\build\\intermediates\\res\\merged\\debug\\animator\\bubble_down_click_animator.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\a3b2f0fb1dfd1f0b8f0a4728adbef229079d74fd\\output\\res\\animator\\bubble_down_click_animator.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\NotificationBubble\\app\\build\\intermediates\\res\\merged\\debug\\animator\\bubble_up_click_animator.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\a3b2f0fb1dfd1f0b8f0a4728adbef229079d74fd\\output\\res\\animator\\bubble_up_click_animator.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\NotificationBubble\\app\\build\\intermediates\\res\\merged\\debug\\animator\\bubble_trash_hide_animator.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\a3b2f0fb1dfd1f0b8f0a4728adbef229079d74fd\\output\\res\\animator\\bubble_trash_hide_animator.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\NotificationBubble\\app\\build\\intermediates\\res\\merged\\debug\\animator\\bubble_trash_shown_animator.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\a3b2f0fb1dfd1f0b8f0a4728adbef229079d74fd\\output\\res\\animator\\bubble_trash_shown_animator.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\NotificationBubble\\app\\build\\intermediates\\res\\merged\\debug\\animator\\bubble_trash_shown_magnetism_animator.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\a3b2f0fb1dfd1f0b8f0a4728adbef229079d74fd\\output\\res\\animator\\bubble_trash_shown_magnetism_animator.xml"
+    }
+]

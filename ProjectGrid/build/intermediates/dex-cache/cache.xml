@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\ProjectGrid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e9b1fa25d0bb8b74963a507766d95488d916095b">
+        <dex dex="D:\AndroidStudio\ProjectGrid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_adf19bd4926b5c748c86eeb67e2e6a867d3888ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\ProjectGrid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\AndroidStudio\ProjectGrid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_27de3bed8193125464fda3a6e60fef2b61c460f6\classes.dex" />
+    </item>
+
+</items>

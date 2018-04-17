@@ -1,0 +1,7 @@
+#Wed Jun 28 21:05:57 CDT 2017
+base.0=D\:\\AndroidStudio\\LocaNotification\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c6230db66f8f889f206ce03f13c9d12b01305db1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\AndroidStudio\\LocaNotification\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_dc88e5202e8c36f4f9256d70dda3349a44c9c638\\classes.dex
+base.1=D\:\\AndroidStudio\\LocaNotification\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_dc88e5202e8c36f4f9256d70dda3349a44c9c638
+file.0=D\:\\AndroidStudio\\LocaNotification\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c6230db66f8f889f206ce03f13c9d12b01305db1\\classes.dex

@@ -1,0 +1,7 @@
+#Sat Jul 01 11:56:24 CDT 2017
+base.0=D\:\\AndroidStudio\\ProjectGrid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_27de3bed8193125464fda3a6e60fef2b61c460f6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\AndroidStudio\\ProjectGrid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_adf19bd4926b5c748c86eeb67e2e6a867d3888ec\\classes.dex
+base.1=D\:\\AndroidStudio\\ProjectGrid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_adf19bd4926b5c748c86eeb67e2e6a867d3888ec
+file.0=D\:\\AndroidStudio\\ProjectGrid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_27de3bed8193125464fda3a6e60fef2b61c460f6\\classes.dex

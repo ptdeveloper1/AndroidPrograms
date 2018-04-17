@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="bubbles-1.2.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/a3b2f0fb1dfd1f0b8f0a4728adbef229079d74fd/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/a3b2f0fb1dfd1f0b8f0a4728adbef229079d74fd/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.txusballesteros/bubbles/1.2.1/80a8fa9923a6345ae63844bf5956ae9de7d5c635/bubbles-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

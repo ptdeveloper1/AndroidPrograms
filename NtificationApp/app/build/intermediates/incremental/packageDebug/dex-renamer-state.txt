@@ -1,0 +1,7 @@
+#Tue Jul 04 07:47:09 CDT 2017
+base.0=D\:\\AndroidStudio\\NtificationApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d57a18b8b70b9028f5659a769e524d8e01e1b2c3
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\AndroidStudio\\NtificationApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_84ce6ea670a42c86b7ebba77fdfb8b98babd4fae\\classes.dex
+base.1=D\:\\AndroidStudio\\NtificationApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_84ce6ea670a42c86b7ebba77fdfb8b98babd4fae
+file.0=D\:\\AndroidStudio\\NtificationApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d57a18b8b70b9028f5659a769e524d8e01e1b2c3\\classes.dex

@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudio\LocaNotification\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\AndroidStudio\LocaNotification\app\src\main\AndroidManifest.xml:3:11-67
+		INJECTED from D:\AndroidStudio\LocaNotification\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudio\LocaNotification\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidStudio\LocaNotification\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudio\LocaNotification\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudio\LocaNotification\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\AndroidStudio\LocaNotification\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudio\LocaNotification\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\AndroidStudio\LocaNotification\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ADMIN\.android\build-cache\49b4e98de66722b507dca4b7fbed6e492e9ef0c9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ADMIN\.android\build-cache\f13a864fe636b5a8ef0fd0e1abe490e2b87b81f1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ADMIN\.android\build-cache\054819a1bb1403cf652eaafccc67fc7196cd8539\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ADMIN\.android\build-cache\5e0f72b77d9fbf68de85394f227b4b9592f198b4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ADMIN\.android\build-cache\c7402da0b14e92185f8350a8b3f915ef8f8289f0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ADMIN\.android\build-cache\59004f2365cde2606526e0c7d3ccdbbeaa5e6087\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ADMIN\.android\build-cache\015650481f90b6887687d87595e15e8cbb18a9b4\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ADMIN\.android\build-cache\1fdc7d7a260cc3fe32e0ec6f670604058da5c7f6\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ADMIN\.android\build-cache\0cb618006f170729a70c61fee34b0051cbd9f8e7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ADMIN\.android\build-cache\e82db0a09aacd19b6ded59dab2e3abd944c918cb\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\AndroidStudio\LocaNotification\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from D:\AndroidStudio\LocaNotification\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from D:\AndroidStudio\LocaNotification\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from D:\AndroidStudio\LocaNotification\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\AndroidStudio\LocaNotification\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from D:\AndroidStudio\LocaNotification\app\src\main\AndroidManifest.xml:11:9-40
+activity#localnotification.example.com.locanotification.MainActivity
+ADDED from D:\AndroidStudio\LocaNotification\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\AndroidStudio\LocaNotification\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudio\LocaNotification\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidStudio\LocaNotification\app\src\main\AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from D:\AndroidStudio\LocaNotification\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudio\LocaNotification\app\src\main\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from D:\AndroidStudio\LocaNotification\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\AndroidStudio\LocaNotification\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ADMIN\.android\build-cache\49b4e98de66722b507dca4b7fbed6e492e9ef0c9\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ADMIN\.android\build-cache\f13a864fe636b5a8ef0fd0e1abe490e2b87b81f1\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ADMIN\.android\build-cache\054819a1bb1403cf652eaafccc67fc7196cd8539\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ADMIN\.android\build-cache\5e0f72b77d9fbf68de85394f227b4b9592f198b4\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ADMIN\.android\build-cache\c7402da0b14e92185f8350a8b3f915ef8f8289f0\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ADMIN\.android\build-cache\59004f2365cde2606526e0c7d3ccdbbeaa5e6087\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ADMIN\.android\build-cache\015650481f90b6887687d87595e15e8cbb18a9b4\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ADMIN\.android\build-cache\1fdc7d7a260cc3fe32e0ec6f670604058da5c7f6\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ADMIN\.android\build-cache\0cb618006f170729a70c61fee34b0051cbd9f8e7\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ADMIN\.android\build-cache\e82db0a09aacd19b6ded59dab2e3abd944c918cb\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ADMIN\.android\build-cache\49b4e98de66722b507dca4b7fbed6e492e9ef0c9\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\AndroidStudio\LocaNotification\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudio\LocaNotification\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidStudio\LocaNotification\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudio\LocaNotification\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ADMIN\.android\build-cache\49b4e98de66722b507dca4b7fbed6e492e9ef0c9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ADMIN\.android\build-cache\f13a864fe636b5a8ef0fd0e1abe490e2b87b81f1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ADMIN\.android\build-cache\054819a1bb1403cf652eaafccc67fc7196cd8539\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ADMIN\.android\build-cache\5e0f72b77d9fbf68de85394f227b4b9592f198b4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ADMIN\.android\build-cache\c7402da0b14e92185f8350a8b3f915ef8f8289f0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ADMIN\.android\build-cache\59004f2365cde2606526e0c7d3ccdbbeaa5e6087\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ADMIN\.android\build-cache\015650481f90b6887687d87595e15e8cbb18a9b4\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ADMIN\.android\build-cache\1fdc7d7a260cc3fe32e0ec6f670604058da5c7f6\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ADMIN\.android\build-cache\0cb618006f170729a70c61fee34b0051cbd9f8e7\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ADMIN\.android\build-cache\49b4e98de66722b507dca4b7fbed6e492e9ef0c9\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ADMIN\.android\build-cache\49b4e98de66722b507dca4b7fbed6e492e9ef0c9\output\AndroidManifest.xml:26:9-47
