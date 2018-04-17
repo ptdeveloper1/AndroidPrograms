@@ -1,0 +1,7 @@
+#Thu Nov 30 13:11:38 CST 2017
+base.0=D\:\\AndroidStudio\\SpeechToTextPractice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c51bb8096caf80bee8d6dbae3a672450b9f7ed1b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\AndroidStudio\\SpeechToTextPractice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3b92cd4e8527e5750080c4add711e82ac9a3ec55\\classes.dex
+base.1=D\:\\AndroidStudio\\SpeechToTextPractice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3b92cd4e8527e5750080c4add711e82ac9a3ec55
+file.0=D\:\\AndroidStudio\\SpeechToTextPractice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c51bb8096caf80bee8d6dbae3a672450b9f7ed1b\\classes.dex

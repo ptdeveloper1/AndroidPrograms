@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="texttospeech.example.com.texttospeech.MainActivity">
+
+    android:orientation="vertical"
+    android:background="#ffffff">
+
+    <TextView android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:text="Text To Speech"
+              android:padding="15dip"
+              android:textColor="#0587d9"
+              android:textSize="26dip"
+              android:gravity="center"
+              android:textStyle="bold"
+              tools:layout_editor_absoluteX="-16dp"
+              app:layout_constraintBottom_toBottomOf="parent"
+              android:layout_marginBottom="8dp"
+              app:layout_constraintTop_toTopOf="parent"
+              android:layout_marginTop="8dp"
+              app:layout_constraintVertical_bias="0.352"/>
+
+    <EditText android:id="@+id/txtText"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:hint="Enter some text to speak"
+              android:layout_margin="10dip"
+              tools:layout_editor_absoluteX="0dp"
+              app:layout_constraintBottom_toBottomOf="parent"
+              android:layout_marginBottom="8dp"
+              app:layout_constraintTop_toTopOf="parent"
+              android:layout_marginTop="8dp"/>
+
+    <Button android:id="@+id/btnSpeak"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Speak Out"
+            android:layout_margin="10dip"
+            tools:layout_editor_absoluteX="10dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:layout_marginBottom="8dp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:layout_marginTop="8dp"
+            app:layout_constraintVertical_bias="0.671"/>
+
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\SitePointNotif\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dac0b691418c2e24011cae17a82a75462c426cdf">
+        <dex dex="D:\AndroidStudio\SitePointNotif\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4178b098b4530d8aeb50b97f7f0ac4625eb4ae4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\SitePointNotif\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\AndroidStudio\SitePointNotif\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ac167f8920eb38a94023f9e1d5abbb28e146e637\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Sun Jul 02 09:30:22 CDT 2017
+base.0=D\:\\AndroidStudio\\SitePointNotif\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ac167f8920eb38a94023f9e1d5abbb28e146e637
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\AndroidStudio\\SitePointNotif\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4178b098b4530d8aeb50b97f7f0ac4625eb4ae4a\\classes.dex
+base.1=D\:\\AndroidStudio\\SitePointNotif\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4178b098b4530d8aeb50b97f7f0ac4625eb4ae4a
+file.0=D\:\\AndroidStudio\\SitePointNotif\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ac167f8920eb38a94023f9e1d5abbb28e146e637\\classes.dex
