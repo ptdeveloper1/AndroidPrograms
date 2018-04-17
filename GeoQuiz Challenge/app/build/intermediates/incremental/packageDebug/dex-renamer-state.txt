@@ -1,0 +1,7 @@
+#Wed Jun 07 14:47:15 CDT 2017
+base.0=D\:\\AndroidStudio\\GeoQuiz Challenge\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_82709da0401e5b71e6c349b4c166d7fa3c742f1e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\AndroidStudio\\GeoQuiz Challenge\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_39c7ca2cd16224df7f8795c2c57ef83b9877090a\\classes.dex
+base.1=D\:\\AndroidStudio\\GeoQuiz Challenge\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_39c7ca2cd16224df7f8795c2c57ef83b9877090a
+file.0=D\:\\AndroidStudio\\GeoQuiz Challenge\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_82709da0401e5b71e6c349b4c166d7fa3c742f1e\\classes.dex

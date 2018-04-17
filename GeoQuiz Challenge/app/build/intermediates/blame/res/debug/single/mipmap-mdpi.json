@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AndroidStudio\\GeoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\AndroidStudio\\GeoQuiz\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\GeoQuiz Challenge\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\AndroidStudio\\GeoQuiz Challenge\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\GeoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "D:\\AndroidStudio\\GeoQuiz\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\GeoQuiz Challenge\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "D:\\AndroidStudio\\GeoQuiz Challenge\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    }
+]
