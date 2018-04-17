@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADMIN\.android\build-cache\68765f6dfdeb2e8550f448d8092fe9ff422e539f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\AndroidStudio\FourthClass2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_811121f7e6e67afd6f9549d4daee78c5def57a59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADMIN\.android\build-cache\f36fb8996b1b76d616124570f12c93936ec251f5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\AndroidStudio\FourthClass2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6fd601f3c4dbb525fca40fa097bf8530de5698d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADMIN\.android\build-cache\68ce62105b98b4f57f7203fb78137378ea3c6f23\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\AndroidStudio\FourthClass2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_90f332ce52e4981184641451398c551fc4ae9c64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\FourthClass2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\AndroidStudio\FourthClass2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_13e302fc18df4f935b3d661f875ec292a8a2b718\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\FourthClass2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="70d3e36c16075ec16e5457cec735fe353e196bce">
+        <dex dex="D:\AndroidStudio\FourthClass2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4a4fcd0ff4f34c1966992c95f9827e517c2a6218\classes.dex" />
+    </item>
+
+</items>

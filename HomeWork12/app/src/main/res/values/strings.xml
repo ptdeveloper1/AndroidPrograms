@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HomeWork1</string>
+    <string name="enter_pwd">Enter New Password</string>
+    <string name="new_pwd">Password:</string>
+    <string name="re_pwd">Confirm:</string>
+    <string name="button">Done</string>
+    <string name="correct_toast">THANK YOU</string>
+    <string name="incorrect_toast">Passwords must match</string>
+    <string name="blank_toast">Field can not be blank</string>
+    <string name="show_hide_toast">Show/Hide Password</string>
+
+</resources>
