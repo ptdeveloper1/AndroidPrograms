@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:orientation="vertical" 
+  android:background="@drawable/thk2">
+    <TextView android:text="Help For Speech" 
+      android:layout_marginTop="6px"
+        android:layout_marginBottom="6px"  
+         android:layout_marginLeft="10px"
+       android:layout_marginRight="10px" 
+    android:id="@+id/textView1"
+     android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+   android:textSize="15px"
+   android:textStyle="bold"
+      android:layout_gravity="center_horizontal">
+      </TextView>
+      
+    <TextView 
+      android:layout_marginTop="6px"
+        android:layout_marginBottom="6px"  
+         android:layout_marginLeft="10px"
+       android:layout_marginRight="10px" 
+     android:id="@+id/hlpcont"
+       android:textSize="15px"  
+         android:paddingLeft="15px"
+         android:textStyle="bold"
+              android:layout_width="wrap_content" 
+     android:layout_height="wrap_content">
+     
+     </TextView>
+</LinearLayout>

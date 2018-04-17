@@ -1,0 +1,4 @@
+#Tue Dec 12 00:18:35 CST 2017
+base.0=D\:\\AndroidStudio\\SpeechToTextN\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="hello">Hello World, Mainactivity!</string>
+    <string name="s1">Screen One:</string>
+    <string name="s2">Screen Two:</string>
+    <string name="s3">Screen Three:</string>
+    <string name="s3i">Instructions in screen three:</string>
+    <string name="s3id">  If you are using a mobile with version less than 2.2 , then to enable Text to speech in your mobile please follow the instructions from help button of screen three</string>
+<string name="howtotext1">           In this screen you will find a list which consists of a pair of simple words. Once we click on any item in this screen we will be navigated to screen two. </string>
+<string name="howtotext2">           Here you can find two drop downs list (having a word each on them) which you have selected in the first screen.  We can find list of difficult GRE words (Synonyms) mapped to this word once we choose any dropdown. Once we choose any word from this items in these dropdowns we will be navigated to third screen.  </string>
+    <string name="howtotext3">           Here we can see the meaning of the difficult word with usage. If we click on Word or Usage you can listen to the pronunciation.   </string>
+    <string name="app_name">KnowMoreWords </string>
+
+    <string-array name="wordss">
+
+        <item>CLEVER/LEARNED-FOOL/STUPID</item>
+
+                <item>EASY TO UNDERSTAND-DIFFICULT/MYSTERIOUS</item>
+
+                        <item>CONFUSE-SURPRISE/AMAZE</item>
+
+                                <item>TALKING TOO MUCH/INDIRECT SPEECH-TALKING LESS/BRIEF</item>
+                                <item>  PRAISE-CRITICIZE/SCOLD</item>
+                                <item>HASTE/HURRY-SLOW</item>
+                                <item>DENY/GIVE UP-CANCEL/WITHDRAW</item>
+                                <item>CLEAN-UNCLEAN/DISORGANIZED</item>
+                                <item>ACTIVE/ATTENTIVE-INACTIVE</item>
+                                <item>TIRED/WEAKEN-PREVENT/CONTROL</item>
+                                <item>PLENTY/EXCESS-SHORTAGE</item>
+                                <item>RICH-POOR</item>
+                                <item>WASTEFUL-CAREFUL/STINGY</item>
+                                <item>BIG-SMALL</item>
+                                <item>LESSEN/DECREASE-INCREASE</item>
+                                <item>MAKE WORSE/IRRITATE-MAKE BETTER/IMPROVE</item>
+                                <item>MAIN POINT/PEAK-LOWEST POINT</item>
+                                <item>QUARRELSOME/ILL TEMPERED-PEACEFUL</item>
+                                <item>DISOBEDIENT/STUBBORN-OBIDIENT/UNDERSTANDING</item>
+                                <item>OVER WEIGHT-THIN</item>
+                                <item>BRAVE/DETERMINED-AFRAID</item>
+                                <item>DESIRE-DISLIKE</item>
+
+  
+
+    
+
+    </string-array>
+    <color name="t">#95dd69</color>
+
+</resources>
+

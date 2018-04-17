@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Developer: M Rajinikanth
+COign EDU & IT Services 
+Yr:2011  -->
+
+<RelativeLayout
+android:id="@+id/widget32"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:background="@drawable/thk2"
+xmlns:android="http://schemas.android.com/apk/res/android"
+
+>
+
+<TextView
+android:id="@+id/widget30"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="TextView"
+android:textSize="18sp"
+android:typeface="monospace"
+android:textStyle="bold"
+android:textColor="#ffffffff"
+android:gravity="left"
+android:layout_below="@+id/widget33"
+android:layout_alignParentLeft="true"
+
+>  
+
+</TextView>
+
+
+ 
+<TextView
+android:id="@+id/widget33"
+android:layout_below="@+id/widget29"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="DESCRIPTION  :"
+android:textSize="15sp"
+android:typeface="sans"
+android:textStyle="bold"
+android:textColor="#ffffffff"
+android:gravity="left"
+
+
+>  
+</TextView>
+<TextView
+android:id="@+id/widget29"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="TextView"
+android:textSize="20sp"
+android:typeface="sans"
+android:textStyle="bold"
+android:textColor="#ffffffff"
+android:gravity="center"
+android:layout_alignParentTop="true"
+android:layout_centerHorizontal="true"
+>
+</TextView>
+
+
+<SeekBar 
+android:layout_below="@+id/widget30"
+android:layout_height="15px" 
+android:id="@+id/seekBar1" 
+android:layout_width="fill_parent"
+android:visibility="invisible" 
+android:layout_alignParentLeft="true"></SeekBar>
+<View
+        android:id="@+id/vv3"
+        android:layout_below="@+id/seekBar1"
+        android:layout_height="5dip"
+        android:layout_width="fill_parent"  
+        />
+
+
+
+
+ 
+<RelativeLayout
+android:id="@+id/widget42"
+android:layout_below="@+id/vv3"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+>
+<ImageView
+android:id="@+id/femalei"
+android:layout_width="wrap_content"
+android:visibility="invisible" 
+android:layout_height="wrap_content"
+android:layout_alignParentTop="true"
+android:layout_alignParentLeft="true"
+>
+</ImageView>
+<TextView android:textStyle="bold|italic" android:id="@+id/widget50" android:layout_width="180px" android:textSize="8sp" android:typeface="sans" android:layout_height="40px" android:visibility="invisible" android:text="Wanna Chang voice Just click on M/F icones and click on meanings,you can also set the speed for speech" android:layout_alignParentRight="true"></TextView>
+<Button 
+android:text="Help"
+android:id="@+id/help" android:layout_width="85px" 
+
+ android:layout_height="35px" 
+ android:layout_alignParentTop="true"
+android:layout_alignParentRight="true"></Button> 
+</RelativeLayout>
+
+
+<View
+        android:id="@+id/vv2"
+        android:layout_below="@+id/widget42"
+        android:layout_height="5dip"
+        android:layout_width="fill_parent"  
+        />
+
+<View
+        android:id="@+id/vv1" 
+        android:layout_below="@+id/vv2"
+        android:layout_height="2dip"
+        android:layout_width="fill_parent"
+        android:background="#FF909090" />
+        
+        
+<LinearLayout
+android:layout_below="@+id/vv1"
+android:layout_width="fill_parent" 
+android:layout_height="wrap_content" android:gravity="bottom"
+android:orientation="horizontal">  
+
+<ImageView android:layout_height="wrap_content" 
+android:layout_width="fill_parent"
+ android:id="@+id/imageView1"
+ android:maxWidth="10dip"
+ android:maxHeight="10dip"
+ 
+>  
+ 
+ </ImageView>
+
+
+
+
+</LinearLayout>
+
+
+
+</RelativeLayout>

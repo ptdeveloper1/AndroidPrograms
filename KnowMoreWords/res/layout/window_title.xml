@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  	xmlns:android="http://schemas.android.com/apk/res/android"
+  	android:orientation="horizontal"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	
+	
+	>
+
+    <TextView
+        android:id="@+id/headertag"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:text="KNOW MORE WORDS"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:typeface="sans" />
+	
+	<LinearLayout
+    	android:orientation="horizontal"
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:gravity="right" >
+	<ImageView 
+        android:id="@+id/Button02"
+
+        android:layout_width="25px"
+         android:layout_height="25px"
+        android:src="@drawable/closea"
+        android:layout_gravity="center_vertical"
+        
+       
+
+ 
+        >
+    </ImageView>
+    </LinearLayout>
+	     
+</LinearLayout>
