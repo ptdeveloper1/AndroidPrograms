@@ -1,0 +1,7 @@
+#Sun Jul 02 14:53:57 CDT 2017
+base.0=D\:\\AndroidStudio\\NotificationMusic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b1572202d5964acea48ca705601ba9c048718344
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\AndroidStudio\\NotificationMusic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3adcfe279c13c7546ca020983121a6d604fac171\\classes.dex
+base.1=D\:\\AndroidStudio\\NotificationMusic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3adcfe279c13c7546ca020983121a6d604fac171
+file.0=D\:\\AndroidStudio\\NotificationMusic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b1572202d5964acea48ca705601ba9c048718344\\classes.dex

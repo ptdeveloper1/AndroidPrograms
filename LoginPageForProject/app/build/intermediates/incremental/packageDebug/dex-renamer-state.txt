@@ -1,0 +1,7 @@
+#Tue Jul 04 17:14:35 CDT 2017
+base.0=D\:\\AndroidStudio\\LoginPageForProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0dff94f46eef2cc6fdf1c734fa604b283d1398c8
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\AndroidStudio\\LoginPageForProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0001bc3d5cbf89da3d09ed998b7ea687da128a28\\classes.dex
+base.1=D\:\\AndroidStudio\\LoginPageForProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0001bc3d5cbf89da3d09ed998b7ea687da128a28
+file.0=D\:\\AndroidStudio\\LoginPageForProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0dff94f46eef2cc6fdf1c734fa604b283d1398c8\\classes.dex

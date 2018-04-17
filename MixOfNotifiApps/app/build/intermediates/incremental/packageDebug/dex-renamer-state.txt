@@ -1,0 +1,7 @@
+#Mon Jul 03 12:21:54 CDT 2017
+base.0=D\:\\AndroidStudio\\MixOfNotifiApps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a15cb8e84686b7152b09e71b7a7540197c19d788
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\AndroidStudio\\MixOfNotifiApps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_15c8c2c8909cdfd82b75ad5bacd9875cc66de20d\\classes.dex
+base.1=D\:\\AndroidStudio\\MixOfNotifiApps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_15c8c2c8909cdfd82b75ad5bacd9875cc66de20d
+file.0=D\:\\AndroidStudio\\MixOfNotifiApps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a15cb8e84686b7152b09e71b7a7540197c19d788\\classes.dex

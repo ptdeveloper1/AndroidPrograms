@@ -1,0 +1,7 @@
+#Tue Jul 04 08:55:26 CDT 2017
+base.0=D\:\\AndroidStudio\\DateAndTimePicker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_25c44f26b8df78c74807993cbca6cca63e4c0de4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\AndroidStudio\\DateAndTimePicker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8e0f1f1a8ce567604d402681725d0a86b0d4990f\\classes.dex
+base.1=D\:\\AndroidStudio\\DateAndTimePicker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8e0f1f1a8ce567604d402681725d0a86b0d4990f
+file.0=D\:\\AndroidStudio\\DateAndTimePicker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_25c44f26b8df78c74807993cbca6cca63e4c0de4\\classes.dex

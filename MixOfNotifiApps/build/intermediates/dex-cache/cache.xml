@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\MixOfNotifiApps\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fb1251d4774b2c284189f9eeb6004ebd1b9bb25b">
+        <dex dex="D:\AndroidStudio\MixOfNotifiApps\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a15cb8e84686b7152b09e71b7a7540197c19d788\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\MixOfNotifiApps\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\AndroidStudio\MixOfNotifiApps\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_15c8c2c8909cdfd82b75ad5bacd9875cc66de20d\classes.dex" />
+    </item>
+
+</items>

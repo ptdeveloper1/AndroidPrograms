@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\NotificationMusic\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\AndroidStudio\NotificationMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3adcfe279c13c7546ca020983121a6d604fac171\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\NotificationMusic\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="951b7904881c61fe54ec6f1076c14ac7257ea431">
+        <dex dex="D:\AndroidStudio\NotificationMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b1572202d5964acea48ca705601ba9c048718344\classes.dex" />
+    </item>
+
+</items>

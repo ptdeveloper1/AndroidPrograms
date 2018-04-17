@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DatabaseLink</string>
+    <string name="blank_toast">Field is blank</string>
+    <string name="correct_toast">Redirecting</string>
+</resources>
