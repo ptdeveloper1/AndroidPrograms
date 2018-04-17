@@ -1,0 +1,7 @@
+#Sat Jul 01 21:08:39 CDT 2017
+base.0=D\:\\AndroidStudio\\NotificationWithButton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b396d0753d4388839631b5074d884d109bc95c64
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\AndroidStudio\\NotificationWithButton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0b39a9081a153b71c7ad1bf2172d30ca4b0695bb\\classes.dex
+base.1=D\:\\AndroidStudio\\NotificationWithButton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0b39a9081a153b71c7ad1bf2172d30ca4b0695bb
+file.0=D\:\\AndroidStudio\\NotificationWithButton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b396d0753d4388839631b5074d884d109bc95c64\\classes.dex
