@@ -1,0 +1,7 @@
+#Wed Jun 28 20:20:08 CDT 2017
+base.0=D\:\\AndroidStudio\\ReminderDaily\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d29e594fa15dce0f1e81929164ff9f4656ef5f52
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\AndroidStudio\\ReminderDaily\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8d68eba027c589f9dacc472c95694fc69cd5aee7\\classes.dex
+base.1=D\:\\AndroidStudio\\ReminderDaily\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8d68eba027c589f9dacc472c95694fc69cd5aee7
+file.0=D\:\\AndroidStudio\\ReminderDaily\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d29e594fa15dce0f1e81929164ff9f4656ef5f52\\classes.dex

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProjectHomePage</string>
+    <string-array name="activities">
+        <item>Select an Activity</item>
+        <item>Wakeup at 5 AM</item>
+        <item>Go to Gym</item>
+        <item>Reading A book</item>
+        <item>Work on Coding</item>
+        <item>Learn a New Language</item>
+        <item>Go for a walk</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+#Thu Jun 08 14:50:27 CDT 2017
+base.0=D\:\\AndroidStudio\\TwoButtons\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_31d7c1ca31951eed7ca91ea754c2cd06adba2205
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\AndroidStudio\\TwoButtons\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ad013d5eb724417c624097d3485f694d2d0560af\\classes.dex
+base.1=D\:\\AndroidStudio\\TwoButtons\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ad013d5eb724417c624097d3485f694d2d0560af
+file.0=D\:\\AndroidStudio\\TwoButtons\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_31d7c1ca31951eed7ca91ea754c2cd06adba2205\\classes.dex
