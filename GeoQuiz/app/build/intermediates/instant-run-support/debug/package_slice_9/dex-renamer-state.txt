@@ -1,0 +1,4 @@
+#Tue Jun 13 11:21:12 CDT 2017
+base.0=D\:\\AndroidStudio\\GeoQuiz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
+renamed.0=classes.dex
+file.0=D\:\\AndroidStudio\\GeoQuiz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex

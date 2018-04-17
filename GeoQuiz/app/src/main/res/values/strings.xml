@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+   <string name="question_Australia">Canberra is the capital of Australia</string>
+    <string name="question_Ocean">The pacific ocean is larger then atlantic</string>
+    <string name="question_mideast">The suez connects red sea and indian ocean</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">In Correct</string>
+    <string name="cheat_button">cheat !</string>
+    <string name="warning_text">Are you sure You want to do this</string>
+    <string name="show_answer_button">Show Answer</string>
+    <strng name="judgement_toast">Cheating is wrong</strng>
+
+
+
+</resources>
